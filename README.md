@@ -1,6 +1,9 @@
 # yiddish
 Script to transliterate Yiddish text into Latin (English) alphabet.
-The script takes in text typed by the user and returns a transliterated version (Hebrew alphabet -> Latin alphabet)
+The script takes in text typed by the user and returns a transliterated version (Hebrew alphabet -> Latin alphabet).
+
+A user-friendly web-based version of this script based on Trinket (https://trinket.io) is available at this website: tinyurl.com/yiddish-reader
+
 yiddish_main.py does the input, transliteration, and output tasks.
 yiddish_fix_issues.py does the most text-intensive part of the job, which is:
 - Editing the transliterated text
